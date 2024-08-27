@@ -2,7 +2,7 @@
 
 Upload files to Amazon S3 via AWS SDK for Java 2.x using SpringBoot
 
-![image](https://github.com/user-attachments/assets/90852a18-de0d-4c8c-92d2-96498fda0eca)
+![image](https://github.com/user-attachments/assets/48ad32bf-a640-4a9f-bd6e-3a0c7e1a7782)
 
 ## Getting Started
 
