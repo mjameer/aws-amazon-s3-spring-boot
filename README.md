@@ -1,6 +1,8 @@
-## AWS S3 & Spring-boot
+## AWS S3 & SpringBoot
 
 Upload files to Amazon S3 via AWS SDK for Java 2.x using SpringBoot
+
+![image](https://github.com/user-attachments/assets/90852a18-de0d-4c8c-92d2-96498fda0eca)
 
 ## Getting Started
 
@@ -43,7 +45,7 @@ Follow the below instructions to get started with the source code:
 ## Configure storage properties
 
 ```
-amazon.s3.bucket-name = your-bucket-name
+amazon.s3.bucket-name = ${AMAZON_S3_BUCKET_NAME}
 amazon.s3.region = ${AWS_DEFAULT_REGION}
 amazon.aws.credentials.access-key = ${AWS_ACCESS_KEY_ID}
 amazon.aws.credentials.secret-access-key = ${AWS_SECRET_ACCESS_KEY}
