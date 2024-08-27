@@ -1,4 +1,4 @@
-## Upload files with Amazon S3 AWS SDK for Java 2.x using Spring Boot Web
+## Upload files to Amazon S3 via AWS SDK for Java 2.x using SpringBoot
 
 Upload files to your amazon s3 bucket using Spring Boot Web.
 
