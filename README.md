@@ -16,6 +16,7 @@ Follow the below instructions to get started with the source code:
 - [Amazon S3 Bucket Example](https://docs.aws.amazon.com/code-library/latest/ug/java_2_s3_code_examples.html)
 
 - Summary of Process done in AWS
+  
   ![image](https://github.com/user-attachments/assets/120341ea-c49a-4214-a47a-9d5d066c6653)
 
 ## Dependencies
