@@ -1,6 +1,6 @@
-## Upload files to Amazon S3 via AWS SDK for Java 2.x using SpringBoot
+## AWS S3 & Spring-boot
 
-Upload files to your amazon s3 bucket using Spring Boot Web.
+Upload files to Amazon S3 via AWS SDK for Java 2.x using SpringBoot
 
 ## Getting Started
 
