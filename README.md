@@ -52,3 +52,14 @@ amazon.s3.region = ${AWS_DEFAULT_REGION}
 amazon.aws.credentials.access-key = ${AWS_ACCESS_KEY_ID}
 amazon.aws.credentials.secret-access-key = ${AWS_SECRET_ACCESS_KEY}
 ```
+
+In case of yaml
+
+```
+spring:
+  profiles:
+    active: ${CONFIG_PROFILE:uat}
+```
+
+
+
